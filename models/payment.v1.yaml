@@ -1,4 +1,4 @@
-title: payment
+title: paymentEvent
 type: object
 x-examples:
   example-1:
