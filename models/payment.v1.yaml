@@ -1,0 +1,15 @@
+title: payment
+type: object
+x-examples:
+  example-1:
+    id: string
+    name: toto
+properties:
+  id:
+    type: string
+    description: description
+  name:
+    type: string
+required:
+  - id
+description: Some payment object
